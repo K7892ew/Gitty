@@ -1,2 +1,2 @@
 # Gitty
-README.md
+Terminal Codespaces
